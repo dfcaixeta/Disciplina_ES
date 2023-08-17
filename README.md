@@ -7,15 +7,16 @@ Visão geral sobre a Engenharia de Software; Processos e práticas de desenvolvi
 Conteúdo programático
 
 UNIDADE 01:
-1. INTRODUÇÃO À ENGENHARIA DE SOFTWARE & CAMPOS DE APLICAÇÃO [...]
+
+1. INTRODUÇÃO À ENGENHARIA DE SOFTWARE & CAMPOS DE APLICAÇÃO [...].
    
 1.1. Panoramas e novos cenários. 1.2. Comparação entre software e hardware. 1.3. Softwares de sistemas. 1.4. Softwares de aplicação. 1.5. Softwares científicos e para engenharia. 1.6. Softwares embutidos/embarcados. 1.7. Softwares para linhas de produtos. 1.8. Aplicações para WEB. 1.9. Software de Inteligência Artificial (I.A).
 
-3. O LEGADO DE GERAÇÕES ANTERIORES & UM BREVE HISTÓRICO [...]
+2. O LEGADO DE GERAÇÕES ANTERIORES & UM BREVE HISTÓRICO [...]
    
 3.1. Um resumo. 3.2. Computação mundial aberta. 3.3. Netsoursing (Recursos via internet). 3.4. Software aberto. 4.1. A evolução [...]. 4.2. Linha histórica.
 
-5. A EPISTEME E OS CONCEITOS, OS FUNDAMENTOS & MITOS VERSUS REALIDADE
+3. A EPISTEME E OS CONCEITOS, OS FUNDAMENTOS & MITOS VERSUS REALIDADE
    
 5.1. Revisão de conceitos. 5.2. O que é Engenharia de Software? 6.1. A interdisciplinaridade. 6.1.1. Administração de Projetos. 6.1.2. A comunicação. 6.1.3. Ciência da computação. 6.1.4. Técnica baseada em solução de problemas. 7.1. Mitos versus Realidades.
 
@@ -25,7 +26,7 @@ UNIDADE 02:
    
 1.1. Introdução [...]. 1.2. As atividades [...]. 1.2.1. Especificação de software. 1.2.2. Projeto e implementação de software. 1.2.3. Validação do software (V&V). 1.2.4. Evolução de software. 1.3. As características [...].
 
-6. MODELOS DE PROCESSOS
+5. MODELOS DE PROCESSOS
    
 2.1. Conceitos [...]. 2.2. Tipos de modelos [...]. 2.2.1. Cascata (Ciclo de vida clássico). 2.2.2. Incremental. 2.2.3. Evolucionário (Prototipação e Espiral (Boehm, 1988)). 2.2.4. Concorrente. 2.2.5. Baseado em um componente/orientado ao reuso. 2.2.6. Métodos formais.
 
