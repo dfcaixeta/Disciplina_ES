@@ -14,11 +14,11 @@ UNIDADE 01:
 
 2. O LEGADO DE GERAÇÕES ANTERIORES & UM BREVE HISTÓRICO [...]
    
-3.1. Um resumo. 3.2. Computação mundial aberta. 3.3. Netsoursing (Recursos via internet). 3.4. Software aberto. 4.1. A evolução [...]. 4.2. Linha histórica.
+3.1. Um resumo. 3.2. Computação mundial aberta. 3.3. Netsoursing (Recursos via internet). 4.1. A evolução [...]. 4.2. Linha histórica.
 
-3. A EPISTEME E OS CONCEITOS, OS FUNDAMENTOS & MITOS VERSUS REALIDADE
+3. OS CONCEITOS, OS FUNDAMENTOS & MITOS VERSUS REALIDADE
    
-5.1. Revisão de conceitos. 5.2. O que é Engenharia de Software? 6.1. A interdisciplinaridade. 6.1.1. Administração de Projetos. 6.1.2. A comunicação. 6.1.3. Ciência da computação. 6.1.4. Técnica baseada em solução de problemas. 7.1. Mitos versus Realidades.
+5.1. O que é Engenharia de Software? 6.1. A interdisciplinaridade. 6.1.1. Administração de Projetos. 6.1.2. A comunicação. 6.1.3. Ciência da computação. 6.1.4. Técnica baseada em solução de problemas. 7.1. Mitos versus Realidades.
 
 UNIDADE 02:
 
