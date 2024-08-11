@@ -27,7 +27,4 @@ UNIDADE 4:
 3. ÁGIL VERSUS TRADICIONAL. 3.1. Comparação entre projetos ágil e tradicional. 3.2. Em resumo. […].
 4. OS MODELOS ÁGEIS […]. 4.1. FDD - Feature-Driven Development. 4.2. DSDM - Dynamic System Development Method. 4.3. Scrum - Gerenciamento Ágil de Projetos. 4.3.1. Os perfis. 4.3.2. Product backlog. 4.3.3. Sprint. 4.4. XP - eXtreme Programming. 4.4.1. As práticas do XP. 4.4.2. O processo XP. 4.5. ASD - Adaptive Software Development. 4.6. LSD - Lean Software Development.
 
-UNIDADE 5:
-1. MODELAGEM DE SISTEMAS DE SOFTWARE / UML (UNIFIED MODELING LANGUAGEM). 1.1. Modelagem de sistemas de software: Conceitos iniciais. 1.1.1. Uma análise da modelagem de sistemas. 1.2. UML - A Linguagem de Modelagem Unificada/ Unified Modeling Language. 1.2.1. As visões do sistema. 1.3. Diagramas UML. 1.4. Mecanismos gerais - Introdução. 1.4.1. Estereótipos. 1.4.2. Notas explicativas, Pacotes e Etiquetas valoradas. 1.5. Modelagem de Caso de Uso (MCU). 1.6. Modelagem de Classes de Análises (MCA). 1.6.1. As classes. 1.6.2. As associações entre as classes. 1.7. Modelagem de um sistema acadêmico (Exemplo). 1.7.1. Um estudo de caso [...]. 1.7.2. Análises das Regras de Negócios. 1.7.3. Documentação das responsabilidades. 1.7.4. Glossário de conceitos.
-
 EOF
